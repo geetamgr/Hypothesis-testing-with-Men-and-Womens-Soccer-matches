@@ -1,4 +1,6 @@
 # Hypothesis-testing-with-Men-and-Womens-Soccer-matches
+<img width="2000" height="1256" alt="image" src="https://github.com/user-attachments/assets/91d448e7-c563-4ba6-ae92-66aea0995283" />
+
 Perform an appropriate hypothesis test to determine the p-value, and hence result, of whether to reject or fail to reject the null hypothesis that the mean number of goals scored in women's international soccer matches is the same as men's. Use a 10% significance level. For this analysis, you'll use Official FIFA World Cup matches.
 You're working as a sports journalist at a major online sports media company, specializing in soccer analysis and reporting. You've been watching both men's and women's international soccer matches for a number of years, and your gut instinct tells you that more goals are scored in women's international football matches than men's. This would make an interesting investigative article that your subscribers are bound to love, but you'll need to perform a valid statistical hypothesis test to be sure!
 
